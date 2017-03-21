@@ -9,3 +9,5 @@
 
 ## Laravel modules application
 
+For more information link with tutorial
+https://kamranahmed.info/blog/2015/12/03/creating-a-modular-application-in-laravel/
